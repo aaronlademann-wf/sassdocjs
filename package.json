@@ -2,7 +2,6 @@
   "name": "sassdocjs",
   "version": "0.1.0",
   "description": "Sass source comment documentation generator",
-  "preferGlobal": true,
   "author": "Matt Bieber <matt@daftscholars.com>",
   "license": "MIT",
   "main": "./lib/main.js",
